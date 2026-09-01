@@ -1,0 +1,39 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hitchs Fields",
+      "hasCanvas": false,
+      "bodyTextLen": 493,
+      "bodyTextHash": "460ddd4274aa8bb756a5df97c81358d2bdcc7c01b43092ffd73bf52a9be94a98",
+      "bodyTextPrefix": "HFPS Hitchs Fields Sign in SPAWN N52 bar N52 N52 disc Disc N42 c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hitchs Fields",
+      "hasCanvas": false,
+      "bodyTextLen": 208,
+      "bodyTextHash": "7317fd85c064c73dfdbb97e01158545b05887af32e1b2642aaa9154d29f06445",
+      "bodyTextPrefix": "HFPS Hitchs Fields N52 Disc N42 C8 U AlNiCo SmCo EM Cu Tube Al F",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)"
+  ]
+}
